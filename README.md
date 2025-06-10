@@ -96,9 +96,9 @@ https://localhost:5001/swagger
 
 ---
 
-## 🧪 Testes
+## 🧪 Testes Untarios
 
-> (Adicione aqui quando houver testes unitários ou de integração)
+![TestesUnitarios](https://github.com/user-attachments/assets/4cae8195-f77c-4fa5-a250-6270a443ef04)
 
 ---
 
