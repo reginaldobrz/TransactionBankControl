@@ -79,6 +79,8 @@ Abra no navegador:
 ```
 https://localhost:5001/swagger
 ```
+![image](https://github.com/user-attachments/assets/89fcdfe1-5e26-4c8f-a760-c2f0784dcdfd)
+
 
 ---
 
