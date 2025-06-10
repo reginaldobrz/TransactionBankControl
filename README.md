@@ -53,7 +53,7 @@ Abra o terminal na raiz do projeto e execute:
 ```bash
 dotnet ef database update --project TransactionBankControl.Infrastructure --startup-project TransactionBankControl.API
 ```
-![image](https://github.com/user-attachments/assets/0a22f490-84cb-482c-ad47-eaeb4f2704d0)
+![image](https://github.com/user-attachments/assets/9dabbf74-f95d-447d-a92a-e4e12dffaaa0)
 
 
 ---
